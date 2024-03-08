@@ -1,0 +1,163 @@
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: #e7e9fc;
+}
+ul {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
+.body {
+}
+
+/*-------------------HEADER------------------- */
+
+.header {
+  width: 1440;
+  height: 72;
+  border: 1px;
+  border-bottom: 1px solid;
+  background-color: white;
+}
+.navigation {
+}
+.header-logo-link {
+    font-weight: 700;
+font-size: 18px;
+line-height: 1.17;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #4d5ae5;
+}
+.studio-span {
+font-weight: 700;
+font-size: 18px;
+line-height: 1.16667;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #2e2f42;
+
+}
+.header-navigation {
+}
+.header-item {
+}
+.header-link-navigation {
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+.all-address {
+}
+.address-navigarion {
+}
+.address-list {
+}
+.address-link{
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
+/*-------------------MAIN---------------------- */
+.hero {
+
+}
+.hero-first-section {
+    width: 1440px;
+height: 600px;
+background-color: #2e2f42;
+}
+.hero-h1 {
+font-weight: 700;
+font-size: 56px;
+line-height: 1.07143;
+letter-spacing: 0.02em;
+text-align: center;
+color: #fff;
+}
+.button-hero {
+    border-radius: 4px;
+padding: 16px 32px;
+width: 169px;
+height: 56px;
+box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+background-color: #4d5ae5;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.04em;
+color: #fff;
+}
+.button-hero:hover{
+    border-radius: 4px;
+padding: 16px 32px;
+width: 169px;
+height: 56px;
+box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+background: #404bbf;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.04em;
+color: #fff;
+}
+.button-hero:focus{
+border-radius: 4px;
+padding: 16px 32px;
+width: 169px;
+height: 56px;
+box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+background: #4d5ae5;
+}
+.hero-second-section {
+}
+.hero-h2 {
+}
+.hero-list {
+}
+.hero-first-item {
+}
+.hero-h3-name {
+}
+.hero-text-list {
+}
+.hero-third-section {
+}
+.hero-h2-name {
+}
+.hero-h2-team-list {
+}
+.hero-second-item {
+}
+.hero-h3-employees {
+}
+.hero-h3-img {
+}
+.hero-h3-text {
+}
+.hero-four-section {
+}
+.hero-h4-portfolio {
+}
+.hero-portfolio-list {
+}
+.hero-portfolio-item {
+}
+.hero-portfolio-name {
+}
+.hero-portfolio-img {
+}
+.hero-portfolio-text {
+}
+/*-------------------FOOTER------------------- */
+
+.footer {
+}
+.footer-text {
+}
