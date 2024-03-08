@@ -86,7 +86,7 @@ color: #434455;
 height: 600px;
 background-color: #2e2f42;
 }
-.hero-h1 {
+.hero-first {
 font-weight: 700;
 font-size: 56px;
 line-height: 1.07;
@@ -171,6 +171,7 @@ text-transform: capitalize;
 .hero-second-item {
   background-color: #FFFFFF;
 }
+/*
 .hero-second-employees {
 font-weight: 500;
 font-size: 20px;
@@ -180,6 +181,7 @@ text-align: center;
 color: #2e2f42;
 text-transform: capitalize;
 }
+*/
 .hero-second-img {
 }
 .hero-second-text {
